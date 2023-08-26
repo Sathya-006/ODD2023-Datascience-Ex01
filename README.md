@@ -131,5 +131,5 @@ df.head()
 ```
 df['Credit_History']=df['Credit_History'].fillna(df['Credit_History'].median())
 df.head()
-![2023-08-26 (24)](https://github.com/Sathya-006/ODD2023-Datascience-Ex01/assets/121661327/1f9796c6-a1f9-4c13-aa7b-fa729dd8b927)
 ```
+![2023-08-26 (24)](https://github.com/Sathya-006/ODD2023-Datascience-Ex01/assets/121661327/1f9796c6-a1f9-4c13-aa7b-fa729dd8b927)
